@@ -2,7 +2,7 @@
 
 Login em flutter, estuturado pelo modular, usando o exemplo de teddy da flare, usando dio, e mobx consumindo uma api rest
 
-https://www.2dimensions.com/a/JuanCarlos/files/flare/teddy/preview
+(https://www.2dimensions.com/a/JuanCarlos/files/flare/teddy/preview)
 
 ## libs utilizadas no projeto
 
