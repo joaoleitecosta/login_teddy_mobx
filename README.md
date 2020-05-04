@@ -1,17 +1,20 @@
 # login_teddy
 
-&#x27;A new Flutter project. Created by Slidy&#x27;
+Login em flutter, estuturado pelo modular, usando o exemplo de teddy da flare, usando dio, e mobx consumindo uma api rest
 
-## Getting Started
+https://www.2dimensions.com/a/JuanCarlos/files/flare/teddy/preview
 
-This project is a starting point for a Flutter application.
+## libs utilizadas no projeto
 
-A few resources to get you started if this is your first Flutter project:
+email_validator - validar o email do login
+shared_preferences -armazenar o token do usuário
+oktoast - para exibir os snacks de aviso
+get - usado para navegação entre as telas
+flare_flutter - usado para gerenciar a animação do teddy
+dio - usado para requisições http
+mobx - usado para gerenciar o estado da aplicação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Start projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# login_teddy_mobx
+flutter pub get - para instalar as dependências
+flutter run - para start do projeto
